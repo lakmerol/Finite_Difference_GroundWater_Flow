@@ -48,7 +48,7 @@ namespace Finite_Difference_GroundWater_Flow
             //Console.ReadLine();
             #endregion
 
-            Console.WriteLine("Please Enter Cubic Box Size (m)");
+            Console.WriteLine("Please Enter Cubic Box One Side(m)");
             double BoxSize = Convert.ToDouble(Console.ReadLine());
             Console.WriteLine("Distance X (m)");
             double Dx = Convert.ToDouble(Console.ReadLine());
